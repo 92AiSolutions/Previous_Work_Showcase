@@ -42,6 +42,4 @@ If you're interested in hiring or collaborating, feel free to connect with me on
 
 🔗 [Upwork Profile](https://upwork.com/freelancers/~0125c21a4210550e81)
 
-🐙 GitHub
-
 ✉️ Email: 92ai.tech@gmail.com
