@@ -1,4 +1,4 @@
-🚀 92AiSolutions – AI & Python Project Portfolio
+                                        **🚀 _Welcome to 92 AI Solutions_**
 Welcome to my AI and Python development portfolio. This repository contains a collection of diverse projects ranging from machine learning, data analysis, natural language processing (NLP), API integrations, and web app development.
 
 Each folder is a self-contained project demonstrating specific skills in AI, APIs, data processing, or web frameworks using Python.
